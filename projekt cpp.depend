@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1600191572 source:d:\studia\semestr 2\programowanie\projekt cpp\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"animals.h"
+
+1600192380 d:\studia\semestr 2\programowanie\projekt cpp\animals.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+
+1600037496 source:d:\studia\semestr 2\programowanie\projekt cpp\animals.cpp
+	<string>
+	<fstream>
+	<vector>
+	"animals.h"
+
